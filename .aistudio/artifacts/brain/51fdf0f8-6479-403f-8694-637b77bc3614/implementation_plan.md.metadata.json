@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch triển khai ứng dụng 'Ngân hàng Kỹ năng Cộng đồng' (H05) kết nối người dạy và người học miễn phí:\n- Kiến trúc tổng thể và luồng trải nghiệm người dùng theo 4 trụ cột cốt lõi\n- Hệ thống hồ sơ kỹ năng (dạy & học), tìm kiếm đa chiều theo nhu cầu\n- Trợ lý AI Gemini hỗ trợ gợi ý ghép đôi người dạy - người học tương thích cao\n- Hệ thống đặt lịch học linh hoạt 1-1, quản lý buổi hẹn và trao đổi kinh nghiệm\n- Thiết kế giao diện thân thiện, tông màu xanh ngọc lục bảo (emerald) tươi sáng theo chuẩn anti-slop và WCAG AA",
+  "updatedAt": "2026-10-19T09:08:06.032545470Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

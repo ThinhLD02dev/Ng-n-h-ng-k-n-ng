@@ -1,0 +1,6 @@
+{
+  "name": "Ngân hàng Kỹ năng Cộng đồng",
+  "description": "Nền tảng kết nối người dân đăng ký dạy và học kỹ năng miễn phí cho nhau với hồ sơ kỹ năng, tìm kiếm theo nhu cầu và ghép nối thông minh bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
